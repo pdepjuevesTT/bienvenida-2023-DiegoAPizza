@@ -10,4 +10,3 @@ Mi nombre es Diego Antonio Pizza, mi numero de legajo es el **208.112-0**
  <img src="https://user-images.githubusercontent.com/79482954/228346308-cde234e6-e9b3-4e78-b811-3dc8ec3916d9.jpg" width=30% heigth=20%>
  
  ---
- pd: no se como hacer mas pequeña la imagen
